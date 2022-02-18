@@ -1,1 +1,7 @@
-# Project-3
+<h2>Rocket Financial</h2>
+
+<h3>Project Description</h3>
+
+Banks have to manage their ATMs spread across the cities, states, etc. These ATMs need to be monitored and checked on a regular basis. Whenever ATMs get vandalized or damaged, it should be reported immediately and fixed. As a standard, banks schedule inspection for all ATMs. PowerApps solutions help the inspectors with a list of ATMs. Inspectors can find any specific ATM or find the ATMs near their current location. Once located, they can start inspecting the ATM. During inspection, PowerApps provides a standard checklist mentioning various steps in the inspections such as inspect from outside, inspect the signage, inspect from inside.
+Inspectors fill the checklist and log any issues found. Users can even take a picture of the actual issue and mention it in the notes. The above functionality is for field inspectors, this data can be saved in SharePoint or any other business application as per the current application environment. This data is further analyzed and, based on the issue types and location, the issue is assigned to the service agent for resolution. Within the app, the service agent can see the issues assigned to him, can locate the ATM, fix the issue, can add notes and close the issue. If a analysis is needed for the case, we can even use PowerBI and show the analysis on PowerApps. This analysis can help the bank in various ways such as to identify the areas where vandalism is more common and take precautionary measures.
+
